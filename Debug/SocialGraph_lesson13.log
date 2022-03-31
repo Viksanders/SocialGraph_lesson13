@@ -1,0 +1,9 @@
+﻿  SocialGraph.cpp
+H:\VisualStudio Workspace\SocialGraph_lesson13\SocialGraph_lesson13\SocialGraph.cpp(191,18): warning C4018: <: несоответствие типов со знаком и без знака
+H:\VisualStudio Workspace\SocialGraph_lesson13\SocialGraph_lesson13\SocialGraph.cpp(201,22): warning C4018: <: несоответствие типов со знаком и без знака
+H:\VisualStudio Workspace\SocialGraph_lesson13\SocialGraph_lesson13\SocialGraph.cpp(235,14): warning C4018: <: несоответствие типов со знаком и без знака
+H:\VisualStudio Workspace\SocialGraph_lesson13\SocialGraph_lesson13\SocialGraph.cpp(245,18): warning C4018: <: несоответствие типов со знаком и без знака
+  Vertex.cpp
+  main.cpp
+  Создание кода...
+  SocialGraph_lesson13.vcxproj -> H:\VisualStudio Workspace\SocialGraph_lesson13\SocialGraph_lesson13\Debug\SocialGraph_lesson13.exe
